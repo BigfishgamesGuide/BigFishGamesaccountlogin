@@ -3,7 +3,7 @@ How to Fix Big Fish Games Account Login Problem
 
 If you are having trouble logging in to your Big Fish Games account, you are not alone. Login problems can happen for several reasons, including an incorrect email address or password, browser problems, outdated cookies, account-related issues, or problems with the Big Fish Games Game Manager.
 
-  
+
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
